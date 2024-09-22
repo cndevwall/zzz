@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: 
+Sitemap: https://spry-hat.cloudvent.net/sitemap_index.xml
+Sitemap: https://spry-hat.cloudvent.net/sitemap-01.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-02.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-03.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-04.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-05.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-06.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-07.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-08.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-09.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-10.html.gz
+Sitemap: https://spry-hat.cloudvent.net/sitemap-11.html.gz
